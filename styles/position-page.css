@@ -13,6 +13,8 @@ nav .icon-img {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	border-radius: 50%;
+	vertical-align: middle;
+  	border: 1px solid black;
 }
 nav ul {
 	display: inline-block;
